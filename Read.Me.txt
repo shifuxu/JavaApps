@@ -1,0 +1,6 @@
+/*
+*author: steven xu
+*mail: steven.shifu.xu@gmail.com
+*/
+
+This repository contains some java apps which are developed by mysel.
